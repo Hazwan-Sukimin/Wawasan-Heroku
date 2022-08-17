@@ -8,3 +8,10 @@
 - The owner and staff can easily identify how frequently customers come to their workshop. 
 - To replace manual tasks to maximize efficiency and productivity through digital technology. 
 - To increase the productivity of their technicians and sales. 
+
+Project Environment
+- This project is developed using netbeans version 14 IDE 
+- MariaDb was been used for the database.
+
+The Project has been deployed in Heroku Server
+Link: https://repair-tracking-system.herokuapp.com/
