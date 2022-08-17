@@ -1,0 +1,33 @@
+.bg-sidebar-main{
+    background-color: #ffffff;
+    background-size: cover;
+}
+
+span, path{
+    color: #bdc9ce;
+}
+
+.span-active{
+    color: #769bee;
+}
+
+.bg-main{
+    background-color: #f7fafc;
+    background-size: cover;
+}
+
+.bg-blue1{
+    background-color: #ffe45e;
+}
+
+.bg-blue2{
+    background-color: #2ECBE9;
+}
+
+.bg-blue3{
+    background-color: #128FC8;
+}
+
+.bg-blue4{
+    background-color: #00468B;
+}
